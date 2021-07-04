@@ -1,6 +1,8 @@
 # ESP-01 Qwiic Development Board
 
-- GitHub repository here: [Tecsmith/arduino-esp-01-dev-board](https://github.com/Tecsmith/arduino-esp-01-dev-board/)
+An ESP-01 Development Board with power, programming and Qwiic headers
+
+GitHub repository at [Tecsmith/arduino-esp-01-dev-board](https://github.com/Tecsmith/arduino-esp-01-dev-board/)
 
 
 ## Specifications
