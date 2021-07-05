@@ -39,6 +39,10 @@ GND | GND | **8** | **1** | GPIO-1 / TX | TXO / TXD
 
 ## On Board Jumpers
 
+### JP0 - On-board Enable
+- Connected: Vcc *(3v3)* is bound to ESP-01 EN *(Enable)*
+- Cut: EN is not connected, must bind EN pin to Vcc to Enable *(useful for adding on/off switch)*
+
 ### JP1 - I<sup>2</sup>C Pull Ups
 - Connected _(default)_: 4.7KΩ pullups
 - Cut both sides: No pullups
