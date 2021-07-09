@@ -93,4 +93,4 @@ Wire.begin(SDA_PIN, SCL_PIN);
 ```
 
 ----------
-<p align="center" style="color:#069">★</p>
+<p align="center" style="color:#069">&#9733;</p>
